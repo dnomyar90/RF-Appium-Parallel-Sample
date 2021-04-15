@@ -48,3 +48,6 @@ $ ./run-test.sh [tag] [threads]
 
 ./run-test.sh calculator 2
 ```
+
+### Demo
+[![Parallel RF Appium Tests](https://j.gifs.com/jZ74m4.gif)](https://www.youtube.com/watch?v=u0nHLsjJnqc)
