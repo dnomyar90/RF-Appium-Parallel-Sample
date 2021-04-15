@@ -1,18 +1,22 @@
 # Parallel Appium Test in Robot Framework via Pabot
-- [http://robotframework.org/](http://robotframework.org/)
-- [https://pabot.org/](https://pabot.org/)
-- [https://appium.io/](https://appium.io/)
+- [http://robotframework.org/](http://robotframework.org/){:target="_blank"} 
+- [https://pabot.org/](https://pabot.org/){:target="_blank"} 
+- [https://appium.io/](https://appium.io/){:target="_blank"} 
 
 ### Pre-Requisites
+* Python
 * Android sdk
 * Robot Framework
 * Appium 
 
 ### Installation
+- Python
+Please find tutorial on how to install Python [here](https://realpython.com/installing-python/){:target="_blank"} 
 - Appium
 ```
 $ npm install -g appium
 ```
+- 
 - Robotframework, Appium Library, and Pabot
 ```
 $ pip install robotframework
@@ -25,7 +29,7 @@ $ appium -p 4723
 ```
 
 ### Install APK
-Install APK for calculator sample to your devices. Located [here](https://github.com/dnomyar90/RF-Appium-Parallel-Sample/blob/main/asset/calculator.apk)
+Install APK for calculator sample to your devices. Located [here](https://github.com/dnomyar90/RF-Appium-Parallel-Sample/blob/main/asset/calculator.apk){:target="_blank"} 
 
 ### Devices Set
 Store device info such as UDID, Name, Appium Port, and System Port as .dat file
