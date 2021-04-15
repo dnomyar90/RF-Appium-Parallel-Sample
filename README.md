@@ -11,7 +11,9 @@
 
 ### Installation
 - Python
+
 Please find tutorial on how to install Python [here](https://realpython.com/installing-python/)
+
 - Appium
 ```
 $ npm install -g appium
