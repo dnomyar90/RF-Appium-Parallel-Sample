@@ -20,7 +20,6 @@ Follow the tutorial on how to install Python [here](https://realpython.com/insta
 ```
 $ npm install -g appium
 ```
-- 
 - Robotframework, Appium Library, and Pabot
 ```
 $ pip install robotframework
