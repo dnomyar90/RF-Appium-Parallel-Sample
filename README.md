@@ -24,6 +24,10 @@ $ pip install robotframework-pabot
 $ appium -p 4723 
 ```
 
+### Install APK
+- Install APK for calculator sample to your devices. Located on: https://github.com/dnomyar90/RF-Appium-Parallel-Sample/blob/main/asset/calculator.apk
+- You can of course improve this sample to automatically install APK and start Appium server. This sample is provided as-is at bare minimum just to give you idea how to do parallel Appium test.
+
 ### Devices Set
 Store device info such as UDID, Name, Appium Port, and System Port as .dat file
 
@@ -50,4 +54,4 @@ $ ./run-test.sh [tag] [threads]
 ```
 
 ### Demo
-[![Parallel RF Appium Tests](https://j.gifs.com/jZ74m4.gif)](https://www.youtube.com/watch?v=u0nHLsjJnqc)
+[![Parallel RF Appium Tests](https://j.gifs.com/jZ74m4.gif)](https://www.youtube.com/watch?v=u0nHLsjJnqc)asset
