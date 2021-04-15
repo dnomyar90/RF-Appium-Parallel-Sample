@@ -16,7 +16,7 @@ $ pip install robotframework
 $ pip install robotframework-appiumlibrary
 $ pip install robotframework-pabot
 ```
-### Run APPIUM server
+### Run Appium server
 ```
 $ appium -p 4723 
 ```
