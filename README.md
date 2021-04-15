@@ -12,9 +12,8 @@
 ### Installation
 - Python
 
-```
 Follow the tutorial on how to install Python [here](https://realpython.com/installing-python/)
-```
+
 
 - Appium
 ```
