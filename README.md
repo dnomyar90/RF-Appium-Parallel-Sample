@@ -23,4 +23,8 @@ $ appium -p 4723
 ### How To Run
 ```
 $ ./run-test.sh [tag] [threads]
+
+E.g.
+
+./run-test.sh calculator 2
 ```
